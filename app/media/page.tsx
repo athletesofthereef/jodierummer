@@ -58,7 +58,7 @@ export default function MediaPage() {
                             <p>
                                 On 3 October 2014, I had the distinct opportunity to give a presentation at a TEDx event hosted by{' '}
                                 <Link 
-                                    href="http://www.jcu.edu.au/"
+                                    href="https://www.jcu.edu.au/"
                                     target="_blank"
                                     rel="noopener"
                                     className="text-blue-600 hover:text-blue-500 font-medium"
@@ -66,7 +66,7 @@ export default function MediaPage() {
                                     James Cook University
                                 </Link>:{' '}
                                 <Link 
-                                    href="http://tedxjcucairns.com/about-2/"
+                                    href="https://www.youtube.com/watch?v=-4EEP9CpI7s"
                                     target="_blank"
                                     rel="noopener"
                                     className="text-blue-600 hover:text-blue-500 font-medium"
